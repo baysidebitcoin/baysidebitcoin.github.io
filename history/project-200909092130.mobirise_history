@@ -24,6 +24,7 @@
         "display4Font": "Jost",
         "display4Size": 1.1,
         "isRoundedButtons": true,
+        "isGhostButtonBorder": true,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
@@ -37,13 +38,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.1.4",
-    "siteFonts": [
-      {
-        "css": "'Jost', sans-serif",
-        "name": "Jost",
-        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
-      }
-    ],
+    "siteFonts": [],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/baysidebitcoin-128x149.png",
     "cssOptimize": true,
@@ -57,7 +52,7 @@
     "gdpr": false,
     "publishChangesOnly": true,
     "uniqCompNum": 17,
-    "versionPublish": "5.0.29"
+    "versionPublish": "5.1.4"
   },
   "pages": {
     "index.html": {
